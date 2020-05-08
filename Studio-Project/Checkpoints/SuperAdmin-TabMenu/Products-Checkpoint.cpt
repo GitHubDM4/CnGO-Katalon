@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Products-Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Products-TabMenu-Test Data</source-url>
+   </source-info>
+   <taken-date>2020-04-16T10:40:26.171</taken-date>
+   <column-names>
+      <column-name>Products</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Prod",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Combos",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Discount",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Tags",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Ticket Templates",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

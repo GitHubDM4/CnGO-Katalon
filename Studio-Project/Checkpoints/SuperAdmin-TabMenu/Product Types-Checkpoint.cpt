@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Product Types-Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/ProductTypes-TabMenu-Test Data</source-url>
+   </source-info>
+   <taken-date>2020-04-14T10:39:45.64</taken-date>
+   <column-names>
+      <column-name>Product Types</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Ticket types",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Addon types",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Cashless types",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Wallet Types",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Validities",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Internal Type</description>
+   <name>Products-TabMenu-Test Data</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>1e62d6c0-7592-4ea3-9f44-3d9b43b13839</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Prod</data>
+   <data>Combos</data>
+   <data>Discount</data>
+   <data>Tags</data>
+   <data>Ticket+Templates</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Products</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

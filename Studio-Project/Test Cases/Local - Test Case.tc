@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Creation et suppression de langue</description>
+   <name>Local - Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb0d0140-fb07-450d-ba81-0563695f36df</testCaseGuid>
+</TestCaseEntity>

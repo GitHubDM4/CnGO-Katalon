@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description>Pratique-dummy</description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Test Data_User-INTERNAL</source-url>
+   </source-info>
+   <taken-date>2020-04-15T11:36:09.107</taken-date>
+   <column-names>
+      <column-name>Name</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "admin@connectngo.com",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

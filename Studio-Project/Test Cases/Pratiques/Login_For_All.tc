@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login avec les bonnes credentials</description>
+   <name>Login_For_All</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a863632-dfb2-4526-bb55-a1e80c22714a</testCaseGuid>
+</TestCaseEntity>

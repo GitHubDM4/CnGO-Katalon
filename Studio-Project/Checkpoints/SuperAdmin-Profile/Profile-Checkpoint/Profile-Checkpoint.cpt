@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Profile-Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Profile-Test Data</source-url>
+   </source-info>
+   <taken-date>2020-04-15T10:47:04.458</taken-date>
+   <column-names>
+      <column-name>Fields Name</column-name>
+      <column-name>Fields Name Results</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Firstname",
+      "checked": false
+    },
+    {
+      "value": "admins",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Lastname",
+      "checked": false
+    },
+    {
+      "value": "admin",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Email",
+      "checked": false
+    },
+    {
+      "value": "admin@connectngo.com1",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Company",
+      "checked": false
+    },
+    {
+      "value": "connect\u0026go",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Locale",
+      "checked": false
+    },
+    {
+      "value": "English",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

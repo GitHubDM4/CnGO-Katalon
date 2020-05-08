@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_English_font-mono text-sm hoverbg-_c9de9b</name>
+   <tag></tag>
+   <elementGuidId>d4e6d86e-6166-44d3-a7d8-f9a1a7ac45ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@type='text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dusk</name>
+      <type>Main</type>
+      <value>key-value-value-0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-mono text-sm hover:bg-20 focus:bg-white block min-h-input w-full form-control form-input form-input-row py-4 text-90 hover:bg-20 focus:bg-white</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nova&quot;)/div[@class=&quot;flex min-h-screen&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;px-view py-view mx-auto&quot;]/div[@class=&quot;relative&quot;]/form[1]/div[@class=&quot;mb-8&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;flex border-b border-40 flex-col remove-bottom-border&quot;]/div[@class=&quot;py-6 px-8 w-full&quot;]/div[@class=&quot;relative rounded-lg rounded-b-lg bg-30 bg-clip border border-60 mr-11&quot;]/div[@class=&quot;bg-white overflow-hidden key-value-items&quot;]/div[@class=&quot;flex items-center key-value-item&quot;]/div[@class=&quot;flex flex-grow border-b border-50 key-value-fields&quot;]/div[@class=&quot;flex-grow border-l border-50&quot;]/textarea[@class=&quot;font-mono text-sm hover:bg-20 focus:bg-white block min-h-input w-full form-control form-input form-input-row py-4 text-90 hover:bg-20 focus:bg-white&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@type='text']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nova']/div/div[2]/div[2]/div[2]/form/div/div/div[3]/div[2]/div/div[2]/div/div/div[2]/textarea</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+   </webElementXpaths>
+</WebElementEntity>
