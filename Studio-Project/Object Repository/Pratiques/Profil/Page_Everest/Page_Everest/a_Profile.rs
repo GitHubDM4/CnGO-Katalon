@@ -9,6 +9,18 @@
          <key>XPATH</key>
          <value>//div[@id='popover_j2hj2ipwns']/div/div/div/div/ul/li/a</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;popover_j2hj2ipwns&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;select-none overflow-hidden bg-white border border-60 shadow rounded-lg&quot;]/ul[@class=&quot;list-reset&quot;]/li[1]/a[@class=&quot;block no-underline text-90 hover:bg-30 p-3&quot;][count(. | //*[@href = '/resources/users/1/edit' and (text() = '
+                Profile
+            ' or . = '
+                Profile
+            ')]) = count(//*[@href = '/resources/users/1/edit' and (text() = '
+                Profile
+            ' or . = '
+                Profile
+            ')])]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
@@ -43,7 +55,7 @@
             </value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
